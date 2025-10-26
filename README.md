@@ -27,6 +27,33 @@
 - 💻 Beautiful responsive UI with real-time feedback  
 
 ---
+## 🎯 How to Use the Dashboard
+
+Once both servers are running:
+
+### 🧩 Upload Data
+- Click **Upload CSV** or **Load Sample Data**  
+- Supports **drag-and-drop** or **file browse**
+
+### 🔍 Explore Data
+- View **column info**, **datatypes**, and **sample rows**  
+- Detect **missing or incomplete values**
+
+### 📊 Analyze Statistics
+- Displays key metrics: **mean**, **median**, **standard deviation**, **skewness**, **kurtosis**  
+- View all stats in **tabular format**
+
+### 📈 Generate Visuals
+- **Bar Charts**: Compare categories or groups  
+- **Scatter Plots**: Explore relationships between variables  
+- **Heatmaps**: Show correlation between numeric fields  
+- 💾 Download any visualization as **PNG**
+
+### 🤖 Get Automated Insights
+- ✅ Data quality assessment  
+- 🔗 Correlation detection  
+- 📈 Trend and pattern discovery  
+- 💡 Analysis recommendations
 
 ## ⚙️ Installation & Usage (Complete Setup)
 
